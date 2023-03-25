@@ -21,17 +21,20 @@ library(tidyverse)
 
 # Introduction
 
-The dataset of interest is Alex Cookson's data on the ratings of children's books [@alexcookson_childrensbookratings]. For the datasheet of this dataset, I follow the recommendations of [@gebru2021datasheets].
+The dataset of interest is Alex Cookson's data on the ratings of children's books [@alexcookson_childrensbookratings]. For the datasheet of this dataset, I follow the recommendations of Gebru [@gebru2021datasheets].
 
 # Full Datasheet for Children's Book Ratings
 
 ## Motivation
 
 -   **For what purpose was the dataset created? Was there a specific task in mind? Was there a specific gap that needed to be filled? Please provide a description.**
+    -   The dataset was created to address the problem of inconsistency on rating sites and to estimate more reasonable ratings, specifically for children's books by using empirical Bayes estimation.
 -   **Who created the dataset (for example, which team, research group) and on behalf of which entity (for example, company, institution, organization)?**
+    -   Alex Cookson, while working at the Royal Canadian Mint.
 -   **Who funded the creation of the dataset? If there is an associated grant, please provide the name of the grantor and the grant name and number.**
+    -   No direct funding was received for this project.
 -   **Any other comments?**
-    -   No
+    -   No.
 
 ## Composition
 
