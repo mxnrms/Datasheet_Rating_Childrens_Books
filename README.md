@@ -1,6 +1,4 @@
-# README
-
-## Overview
+# Overview
 
 This repo a datasheet for Alex Cookson's data on the ratings of children's books. This datasheet is meant to accompany the dataset on children's book ratings to document the dataset's motivation, composition, collection process, preprocessing, recommended uses, distribution, and maintenance.
 
